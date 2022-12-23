@@ -1,1 +1,1 @@
-# California Apartment Price
+# California Apartment Prices
